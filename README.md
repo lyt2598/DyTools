@@ -1,6 +1,4 @@
 # DyTools
-# DyTools
-DyTools
 [dy_tools]
 [dy_state]1[/dy_state]
 [dy_new]1.2.1[/dy_new]
